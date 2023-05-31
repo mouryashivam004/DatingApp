@@ -2,3 +2,4 @@
 2) setup amgular project
 3) upload on git
 4) New change
+5) Add Payment Page
